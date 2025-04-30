@@ -1,32 +1,17 @@
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+# MG WEB CODERS Developers - Portfolio
+![MG WEB CODERS - Landscape Logo_20250430_222440_0000](https://github.com/user-attachments/assets/6a0f76c1-4393-4768-9853-109c0eabc1c8)
+# 🔗 USEFUL LINK
+🌐 Website:
+https://www.mgwebcoders.site
+🌐 Facebook: 
+https://www.facebook.com/share/1ByEs5MS51/
+# 🔑 LICENSE
+This project is licensed under the MIT License - see the LICENSE file for details
+# 🧑 Author
+Mark Ballerda Gusi
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You can also follow my GitHub Profile to stay updated about my latest projects.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+If you liked the repo then kindly support it by giving it a star ⭐!
 
-I. DEVELOPERS CONTACT DETAILS
-
-facebook: https://www.facebook.com/share/17xNNwsc2C/
-
-Whatsapp: +63 962-420-3788
-
-Viber: +63 962-420-3788
-
-Email: mgwebcoders@outlook.com
-
-<!---
-MGWEBCODERS-SOLUTION/MGWEBCODERS-SOLUTION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Copyright (c) 2023 MARK BALLERDA GUSI
